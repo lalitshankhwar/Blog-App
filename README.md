@@ -1,3 +1,12 @@
+# Introduction
+
+Developed a blog app while learning react.
+
+### Tools used
+
+**For frontend**: React  
+**For Backend**: Appwrite
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
