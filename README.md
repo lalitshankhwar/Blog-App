@@ -2,6 +2,8 @@
 
 Blog App allows users to sign up, create blog posts, and manage their content easily. You can add, edit, and delete posts, as well as write rich-text content. It’s a simple platform for sharing your thoughts and connecting with others.
 
+ 🔗 **Demo** :  [https://appwritebloglalit.netlify.app/](https://appwritebloglalit.netlify.app/)
+
 ## 🛠️ Tech Stack
 
 - **React.js** – Frontend JavaScript library for building interactive user interfaces.
